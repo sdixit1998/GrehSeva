@@ -13,6 +13,7 @@
                         <div class="product-text">
                             <h6>ABC Electricals</h6>
                             <p>Near Clock Tower</p>
+							<p>Price: Rs.450</p>
                         </div>
                     </div>
                 </div>
@@ -24,6 +25,7 @@
                         <div class="product-text">
                             <h6>Best Electricals</h6>
                             <p>Premnagar</p>
+							<p>Price: Rs.550</p>
                         </div>
                     </div>
                 </div>
@@ -35,6 +37,7 @@
                         <div class="product-text">
                             <h6>New Electricals</h6>
                             <p>Bidholi</p>
+							<p>Price: Rs.500</p>
                         </div>
                     </div>
                 </div>
@@ -47,6 +50,7 @@
                         <div class="product-text">
                             <h6>Cool Electricals</h6>
                             <p>Rajpur Road</p>
+							<p>Price: Rs.525</p>
                         </div>
                     </div>
                 </div>
